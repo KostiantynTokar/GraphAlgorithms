@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Tao.FreeGlut;
 using Tao.OpenGl;
 
-namespace VisualGraph
+namespace GraphAlgorithms
 {
     class RGBColor
     {

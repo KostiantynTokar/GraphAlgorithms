@@ -7,7 +7,7 @@ using Tao.FreeGlut;
 using Tao.OpenGl;
 using Tao.Platform.Windows;
 
-namespace VisualGraph
+namespace GraphAlgorithms
 {
     class Visualizer
     {

@@ -9,7 +9,7 @@ using Tao.Platform.Windows;
 
 
 
-namespace VisualGraph
+namespace GraphAlgorithms
 {
     class Menu
     {
