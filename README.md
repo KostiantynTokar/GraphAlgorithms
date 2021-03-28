@@ -1,0 +1,11 @@
+# GraphAlgorithms
+1. [Depth-first search](https://en.wikipedia.org/wiki/Depth-first_search)
+2. [Breadth-first search](https://en.wikipedia.org/wiki/Breadth-first_search)
+3. [Kruskal's algorithm](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm)
+4. [Prim's algorithm](https://en.wikipedia.org/wiki/Prim%27s_algorithm)
+5. [Bellman–Ford algorithm](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm)
+6. [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+7. [Floyd–Warshall algorithm](https://en.wikipedia.org/wiki/Floyd%E2%80%93Warshall_algorithm)
+8. [Johnson's algorithm](https://en.wikipedia.org/wiki/Johnson%27s_algorithm)
+9. [Ford–Fulkerson algorithm](https://en.wikipedia.org/wiki/Ford%E2%80%93Fulkerson_algorithm)
+10. [Edmonds–Karp algorithm](https://en.wikipedia.org/wiki/Edmonds%E2%80%93Karp_algorithm)
